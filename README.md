@@ -46,6 +46,7 @@ npm run dev
 - Validación de campos
 - Insersión y modificación en base de datos.
 - CRUD
+- Documentación de REST API
 
 
 
