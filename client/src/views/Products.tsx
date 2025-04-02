@@ -7,7 +7,7 @@ import ProductDetail from "../components/ProductDetail";
 export async function loader() {
   const products = await getProducts()
 
-  return products
+  return products;
 }
 
 export async function action ({request} : ActionFunctionArgs) {
