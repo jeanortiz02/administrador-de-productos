@@ -3,8 +3,24 @@
 
 [Dar Click Aquí para ver el video demostrativo](https://www.youtube.com/watch?v=tzvNR_OfsMQ)
 
+# Funcionalidades
+- Validación de campos
+- Insersión y modificación en base de datos.
+- CRUD
+- Documentación de REST API
 
 
+# Tecnologías
+- React, React Router
+- Valibot
+- Axios
+- Express
+- Validator
+- Morgan
+- Sequelize
+- Swagger
+- Postgree
+- Jest
 
 # Levantar El FrontEnd
 
@@ -30,24 +46,6 @@ npm run dev
 ```
 npm run dev
 ```
-
-# Tecnologías
-- React, React Router
-- Valibot
-- Axios
-- Express
-- Validator
-- Morgan
-- Sequelize
-- Swagger
-- Postgree
-- Jest
-
-# Funcionalidades
-- Validación de campos
-- Insersión y modificación en base de datos.
-- CRUD
-- Documentación de REST API
 
 
 
